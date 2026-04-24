@@ -47,3 +47,7 @@ Para garantir a execução correta, recomenda-se o uso do Python 3.13+.
 * Insights de Negócio: A análise de Feature Importance revelou que o tamanho estrutural (LOG_PL) e a aversão do investidor à oscilação recente (VOL_63D) são determinantes mais fortes para a atração de novo capital do que retornos de curtíssimo prazo.
 
 Para um aprofundamento nas justificativas estatísticas, limitações da amostra e próximos passos, consulte *dossie.pdf*
+
+## 🗄️ Fonte dos Dados
+
+    [Portal de Dados Abertos da CVM](https://dados.cvm.gov.br/)
